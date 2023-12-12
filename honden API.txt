@@ -1,0 +1,6 @@
+Random afbeelding
+https://dog.ceo/api/breeds/image/random
+
+
+puggleras
+https://dog.ceo/api/breed/puggle/images/random/5
